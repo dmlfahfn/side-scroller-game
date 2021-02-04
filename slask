@@ -1,0 +1,35 @@
+1. en box för hela ramen ----> Done!
+2. inne i den stora boxen så har vi två små boxar, ena som hoppar och den andra som attackerar ----> Done!
+
+<div id="container">
+    <div id ="hero">
+    <div id ="enemy">
+</div> ----> Done!
+
+3. enemy kommer rörande mot hero ----> Done!
+4. hoppar för att rädda, misslyckas den så är det game over ---->Done!
+5. adding a scoring board ----> nearly done 
+6. player will have 3 lives before dying ----> DOne!
+
+******* Design *******
+7. bakgrund i den stora div:en "container"
+8. ljudeffekt för hopp, springande eller kollidering 
+
+!!!! Att tänka på!!!!
+!Kommentarer på vår kod
+!Engelska i namngivning 
+
+
+
+
+Skapa en Hero (character, dvs spelaren ni styr) som kan hoppa och springa i sidled.
+Animera er Hero så att beroende på vad som händer så visar ni olika saker.
+Skapa ett hinder som åker från höger till vänster som vår Hero måste undvika!
+Kan vi använda Math.random() för att skapa hinder med olika intervaller, på olika placeringar?
+Har vår Hero liv? 
+Kan vi räkna och visa förfluten tid från att spelet började?
+Kan vi skapa en highscore lista!
+Kan vi skapa en kollisions funktion (collision detection) som testar om vår Hero’s X&Y position är den samme som ett hinder’s X&Y position?
+Kan vi ta en stor bred bild (scene) som bakgrund och flytta den i sidled för att illustrera rörelse?
+Lägg till ett soundtrack som spelas när spelet börjar.
+Lägg på ljudeffekter till tex hopp eller när vi kolliderar!
